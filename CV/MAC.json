@@ -1,0 +1,306 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Alberto del Rio Ponce",
+      "surnames": "Ponce",
+      "title": "",
+      "description": "Originally as a Telecommunications Engineer and Reinforcing (my) Learning through research in the field of Artificial Intelligence. P.S. I'm not a robot. Really? PhD in progress.",
+      "avatar": {
+        "alt": "profile.jpg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/30/6b4b3c91-421b-4b5d-ab19-3a96fe27a1b4_profile.jpg"
+      },
+      "location": {
+        "notes": "Madrid"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/alberto-del-rio/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/Kaiser-14"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/AdelRioo"
+      },
+      {
+        "type": "other",
+        "URL": "https://kaiser-14.github.io/"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "UPM",
+          "image": {
+            "alt": "GATV.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/30/fd074c01-9bd1-40fd-bd74-359a2ba5b465_gatv.png"
+          },
+          "URL": "https://www.gatv.ssr.upm.es/?lang=en"
+        },
+        "roles": [
+          {
+            "name": "Artificial Intelligence Researcher",
+            "startDate": "2020-01-01",
+            "challenges": [
+              {
+                "description": "Research and implementation of automation services using Machine Learning, from basic models to complex techniques such as Deep Learning and Reinforcement Learning\n\nCollaboration in various national and European projects in the field of telecommunications, media, energy and health, using Artificial Intelligence"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Flask",
+                "type": "technology"
+              },
+              {
+                "name": "TensorFlow",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Telekom Innovation Laboratories",
+          "image": {
+            "alt": "telekom.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/30/d66f4975-6c46-49c8-977a-bb31a23d3f03_telekom.jpeg"
+          },
+          "URL": "https://www.telekom.com/de"
+        },
+        "roles": [
+          {
+            "name": "Functional Researcher",
+            "startDate": "2018-07-01",
+            "finishDate": "2018-12-01",
+            "challenges": [
+              {
+                "description": "Project on the specification, standardization, and implementation of a 5G Service-based Architecture (SBA)\n\nDevelopment of new ideas and specifications for the network services and the overall cloud-native framework/system concept\n\nParticipation in the discussion with the standardization delegates and the preparation of contributions for standardization bodies, mainly 3GPP SA2, Release 16"
+              }
+            ],
+            "competences": [
+              {
+                "name": "RabbitMQ",
+                "type": "technology"
+              },
+              {
+                "name": "Kafka",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Telefónica",
+          "image": {
+            "alt": "telefonica.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/30/3dc35d81-284c-4614-998f-80be1ecba0a8_telefonica.jpg"
+          },
+          "URL": "https://www.telefonica.com/en/web/innovation/core-innovation"
+        },
+        "roles": [
+          {
+            "name": "Quality Assurement Engineer Digital Home",
+            "startDate": "2016-05-01",
+            "finishDate": "2017-04-01",
+            "challenges": [
+              {
+                "description": "End to End Test Management\n\nDesign of test plans following Agile methodologies (Scrum), using JIRA as a tool for the management and monitoring of errors\n\nQuality assurance in IoT systems (backend test, test automation and devices testing)"
+              }
+            ],
+            "competences": [
+              {
+                "name": "iOS",
+                "type": "technology"
+              },
+              {
+                "name": "Android",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Nokia",
+          "image": {
+            "alt": "nokia.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/30/5bdac476-a936-48ae-8b66-a06755d2bca5_nokia.png"
+          },
+          "URL": "https://www.nokia.com/es_int/"
+        },
+        "roles": [
+          {
+            "name": "Deployment Manager",
+            "startDate": "2015-05-01",
+            "finishDate": "2016-04-01",
+            "challenges": [
+              {
+                "description": "Deployment and development of implementation plans for specific sub-projects\n\nManagement and control of the implementation of networking activities\n\nEstablishment and daily projects KPIs report"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Excel",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "Spanish"
+      },
+      {
+        "name": "English"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "M.S. in Signal Processing and Machine Learning for Big Data",
+        "startDate": "2019-02-01",
+        "finishDate": "2020-01-01",
+        "institution": {
+          "name": "UPM",
+          "description": "Master's thesis: 5G Media QoE Optimization based on Reinforcement Learning algorithms (A2C)\n\nFundamental courses on statistical analysis, time series analysis and optimization methods for machine learning and signal processing techniques\n\nKnowledge of real-world signals, such as speech, images, movies, music, biological and sensor readings and financial series",
+          "URL": "https://ssr.upm.es/en/mutsc/",
+          "image": {
+            "alt": "upm.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/30/088b654f-b72f-492c-96e9-fce158147c03_upm.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Python",
+            "type": "technology"
+          },
+          {
+            "name": "TensorFlow",
+            "type": "technology"
+          },
+          {
+            "name": "R",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": false,
+        "name": "PhD in Communications Technologies and Systems}{Technical University of Madrid}{February 2021 -- Ongoing",
+        "startDate": "2021-02-01",
+        "institution": {
+          "name": "UPM",
+          "description": "PhD's thesis: 5G Media QoE Optimization based on Reinforcement Learning algorithms (A3C)",
+          "URL": "https://ssr.upm.es/en/doctorado/",
+          "image": {
+            "alt": "upm.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/30/02605eb2-4ea0-4410-80c3-0e43f9fe3fcd_upm.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Python",
+            "type": "technology"
+          },
+          {
+            "name": "TensorFlow",
+            "type": "technology"
+          },
+          {
+            "name": "Kafka",
+            "type": "technology"
+          },
+          {
+            "name": "API",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "B.S. in Mobile and Space Communications Engineering, Telecommunication Engineer",
+        "startDate": "2010-09-01",
+        "finishDate": "2018-01-01",
+        "institution": {
+          "name": "UC3M",
+          "description": "Bachelor's thesis: Analysis of IPv6 Multicast Traffic in a Network Emulator\n\nBase of treatment and signal propagation in different physical media\n\nKnowledge needed to develop electronic communication systems",
+          "URL": "https://www.uc3m.es/bachelor-degree/mobile-space-communications",
+          "image": {
+            "alt": "uc3m.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/30/3456679c-a505-43fe-9726-a6029d9b54e6_uc3m.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Matlab",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          }
+        ]
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/alberto-del-rio/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Python",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
